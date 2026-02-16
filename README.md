@@ -14,7 +14,6 @@ A comprehensive machine learning project for predicting diabetes using the Pima 
 - [Results](#results)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -203,10 +202,6 @@ Contributions are welcome! Please follow these steps:
 3. Make your changes and commit (`git commit -am 'Add new feature'`)
 4. Push to the branch (`git push origin feature/improvement`)
 5. Create a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
